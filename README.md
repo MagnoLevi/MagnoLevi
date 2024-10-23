@@ -20,12 +20,11 @@ Sou estudante de Sistemas para Internet na Uniesp(PB), no momento estou focado e
 
 
 ##
-<h3 align="left">Github Stats:</h3>
+<h3 align="left">Github Stats</h3>
 
 <div align="center">
-  <a href="https://github.com/stellar-uou">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=magnolevi&layout=compact&hide_progress=true&theme=dark&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnolevi&layout=compact&hide_progress=true&theme=dark&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=magnolevi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnolevi&layout=compact&theme=dark&langs_count=8&include_all_commits=true&count_private=true"/>
 </div>
 
 
