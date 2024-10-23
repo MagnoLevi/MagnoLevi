@@ -24,7 +24,7 @@ Sou estudante de Sistemas para Internet na Uniesp(PB), no momento estou focado e
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=magnolevi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnolevi&layout=compact&theme=dark&langs_count=8&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnolevi&layout=compact&theme=dark&langs_count=8&include_all_commits=true&count_private=true&hide_progress=true"/>
 </div>
 
 
