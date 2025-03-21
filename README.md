@@ -3,9 +3,7 @@
  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 </h1>
  
-Formado em Sistemas para Internet na Uniesp (PB) e, no momento, atuando como Laravel Dev na Stalo Software Studio. To adorando Laravel, mas também to dando uma olhada em React. 👀 <br>
-<img aalign="top" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-<img aalign="top" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+Formado em Sistemas para Internet na Uniesp (PB) e, no momento, atuando como Laravel Dev na Stalo Software Studio. To adorando Laravel, mas também to dando uma olhada em React. 👀
 
 
 - 🔭 Trabalhando como desenvolvedor Laravel.
