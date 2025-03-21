@@ -3,7 +3,10 @@
  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 </h1>
  
-Sou estudante de Sistemas para Internet na Uniesp(PB), no momento estou focado em desenvolver minhas habilidades como Web Dev Full-Stack, principalmente php/Laravel. <img aalign="top" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+Formado em Sistemas para Internet na Uniesp (PB) e, no momento, atuando como Laravel Dev na Stalo Software Studio. To adorando Laravel, mas também dando uma olhada em React 👀 <br>
+<img aalign="top" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+<img aalign="top" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
 
 - 🔭 Trabalhando como desenvolvedor Laravel.
 - 👯 Estou ansioso para colaborar em qualquer projeto Full-Stack Web Developer.
@@ -14,7 +17,7 @@ Sou estudante de Sistemas para Internet na Uniesp(PB), no momento estou focado e
 ##
 <h3 align="left">Projetos Pessoais Públicos</h3>
 
-- [Rpg Laravel Project](https://github.com/MagnoLevi/rpg_laravel_project) - Projeto simulando um rpg, testando minhas habilidades em Laravel.
+- [BaseRpg SideProject](https://github.com/MagnoLevi/rpg_laravel_project) - Projeto de um rpg básico por diversão, testando habilidades com Laravel e implementando WebSocket
 - [Remind Me](https://github.com/MagnoLevi/Remind-Me) - Agenda/Calendário para me ajudar com minhas atividades recorrentes.
 - [Service X](https://github.com/MagnoLevi/servicex) - Aprendendo Spring Boot com a universidade Uniesp.
 
